@@ -1,6 +1,6 @@
 # CPE-310-IE22S1
 
-...............................................................................
+****...............................................................................****
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=<name>%20%7C%20<subject>&fontSize=40&fontAlignY=40&animation=twinkling" />
