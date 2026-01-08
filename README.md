@@ -38,8 +38,8 @@
 ---
 
 ## 📚 Reading Interests
-📖 **Novels:** Romance, Fantasy, Slice of Life  
-🌸 **Manhwa:** Emotional, historical, fantasy  
+📖 **Novels:** Dystopian, Fantasy, Slice of Life  
+🌸 **Manhwa:** Comedy, Historical, Fantasy  
 🍂 **Manga:** Cozy, adventure, character-driven stories  
 
 > *A quiet room, a warm drink, and a good story is my comfort.*
